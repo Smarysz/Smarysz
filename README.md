@@ -1,0 +1,27 @@
+<h1>Hello!</h1>
+<h3>I’m Smarysz and I'm interested in computer games and programming.</h3>
+<h3>My website: <a href="https://smarysz.net/" target="_blank">www.smarysz.net</a> There are programs of my authorship.</h3>
+<br>
+<h3>My skills:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript, AJAX, JSON 👑</li>
+  <li>PHP</li>
+  <li>HTTP, FTP</li>
+  <li>MySQL, SQL, phpMyAdmin</li>
+</ul>
+<br>
+<h3>In future I want to learn:</h3>
+<ul>
+  <li>C#</li>
+  <li>Python</li>
+  <li>AngularJS or React.js</li>
+</ul>
+<br>
+<h3>Favourite games:</h3>
+<ul>
+  <li>CS:GO</li>
+  <li>Minecraft</li>
+  <li>Terraria</li>
+</ul>
