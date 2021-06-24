@@ -16,6 +16,7 @@
   <li>C#</li>
   <li>AngularJS or React.js</li>
 </ul>
+<hr>
 <h3>Favourite games:</h3>
 <ul>
   <li>CS:GO</li>
