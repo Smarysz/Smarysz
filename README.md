@@ -1,12 +1,12 @@
 <h1>Hello!</h1>
 <h3>I’m Smarysz and I'm interested in computer games and programming.</h3>
-<h3>My website: <a href="https://smarysz.net/" target="_blank">www.smarysz.net</a>. There are programs of my authorship.</h3>
+<h3>My website: <a href="https://smarysz.net/" target="_blank">www.smarysz.net</a>. There are easy programs of my authorship.</h3>
 <br>
 <h3>My skills:</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript, AJAX, JSON 👑</li>
+  <li>JavaScript, jQuery, AJAX, JSON 👑</li>
   <li>PHP</li>
   <li>HTTP, FTP</li>
   <li>MySQL, SQL, phpMyAdmin</li>
