@@ -13,7 +13,7 @@
 <br>
 <h3>In future I want to learn:</h3>
 <ul>
-  <li>Python</li>
+  <li>Python (mainly for websites)</li>
   <li>C#</li>
   <li>AngularJS or React.js</li>
 </ul>
