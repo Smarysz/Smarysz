@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 <h3>I’m Smarysz and I'm interested in computer games and programming.</h3>
 <h3>My website: <a href="https://smarysz.net/" target="_blank">www.smarysz.net</a>. There are easy programs of my authorship.</h3>
-<br>
+<hr>
 <h3>My skills:</h3>
 <ul>
   <li>HTML, CSS</li>
