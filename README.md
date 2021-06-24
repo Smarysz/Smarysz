@@ -4,9 +4,8 @@
 <br>
 <h3>My skills:</h3>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript, jQuery, AJAX, JSON 👑</li>
+  <li>HTML, CSS</li>
+  <li>JavaScript, jQuery, AJAX, JSON, XML 👑</li>
   <li>PHP</li>
   <li>HTTP, FTP</li>
   <li>MySQL, SQL, phpMyAdmin</li>
@@ -14,8 +13,8 @@
 <br>
 <h3>In future I want to learn:</h3>
 <ul>
-  <li>C#</li>
   <li>Python</li>
+  <li>C#</li>
   <li>AngularJS or React.js</li>
 </ul>
 <br>
