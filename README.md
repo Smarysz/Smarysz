@@ -15,6 +15,7 @@
   <li>Python (mainly for websites)</li>
   <li>C#</li>
   <li>AngularJS or React.js</li>
+  <li>Hacking/Advanced security</li>
 </ul>
 <hr>
 <h3>Favourite games:</h3>
