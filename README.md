@@ -20,8 +20,8 @@
   <h3>In future I want to learn:</h3>
   <ul>
     <li>Python</li>
-    <li>C#/Java</li>
-    <li>AngularJS or React.js</li>
+    <li>Java/C#</li>
+    <li>AngularJS/React.js</li>
   </ul>
   <hr>
   <h3>Favourite games:</h3>
