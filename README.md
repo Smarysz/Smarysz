@@ -15,13 +15,16 @@
     <li>JavaScript, jQuery, AJAX, JSON, XML 👑</li>
     <li>PHP</li>
     <li>HTTP, FTP</li>
-    <li>MySQL, SQL, phpMyAdmin</li>
+    <li>Git</li>
+    <li>Basics of Python</li>
+    <li>Basics of Node.js and npm</li>
+    <li>MySQL, SQL, phpMyAdmin, MySQL Workbench</li>
   </ul>
   <h3>In future I want to learn:</h3>
   <ul>
-    <li>Python</li>
     <li>Java/C#</li>
     <li>AngularJS/React.js</li>
+    <li>Typescript</li>
   </ul>
   <hr>
   <h3>Favourite games:</h3>
