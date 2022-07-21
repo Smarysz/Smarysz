@@ -17,6 +17,7 @@
     <li>HTTP, FTP</li>
     <li>Git</li>
     <li>Basics of C#</li>
+    <li>Basics of C++</li>
     <li>Basics of Python</li>
     <li>Basics of Node.js and npm</li>
     <li>MySQL, SQL, phpMyAdmin, MySQL Workbench</li>
