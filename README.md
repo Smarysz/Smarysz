@@ -19,7 +19,7 @@
     <li>Basics of C#</li>
     <li>Basics of C++</li>
     <li>Basics of Python</li>
-    <li>Basics of Node.js and npm</li>
+    <li>Node.js and npm</li>
     <li>MySQL, SQL, phpMyAdmin, MySQL Workbench</li>
   </ul>
   <h3>In future I want to learn:</h3>
