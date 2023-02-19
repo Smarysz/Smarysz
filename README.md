@@ -7,6 +7,7 @@
   <h1>Hello!</h1>
   <h3>I’m Smarysz and I'm interested in computer games and IT - mainly programming.</h3>
   <h3>My website: <a href="https://smarysz.net/" target="_blank">www.smarysz.net</a>. There are easy programs of my authorship.</h3>
+  <h3>My Linkedin: <a href="https://www.linkedin.com/in/smarysz" target="_blank">smarysz</a></h3>
   <h3>Contact: <a href="mailto:tymek@smarysz.net">tymek@smarysz.net</a></h3>
   <hr>
   <h3>My skills:</h3>
